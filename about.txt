@@ -1,0 +1,2 @@
+This repository is for Git practice.
+I am learning how to use GitHub.
